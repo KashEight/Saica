@@ -1,0 +1,54 @@
+[Hack]
+Copyright (c) 2018 Source Foundry Authors / Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.
+
+[Source Han Sans]
+Copyright (c) 2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.
+
+[M+ OUTLINE FONTS]
+Copyright (c) 2015 M+ FONTS PROJECT
+
+[DejaVu Sans Mono]
+Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.
+DejaVu changes are in public domain
+
+[Seti-UI + Custom]
+Copyright (c) 2014 Jesse Weed
+
+[Noto Emoji]
+Copyright 2013 Google Inc. All Rights Reserved.
+
+[Font Awesome]
+Copyright Dave Gandy 2016. All rights reserved.
+
+[Font Awesome Extension]
+Copyright (c) 2017 André Luiz Gava (https://github.com/AndreLZGava/font-awesome-extension)
+
+[Material Design Icons]
+Copyright (c) 2014 Austin Andrews (https://github.com/Templarian/MaterialDesign)
+
+[Weather]
+Copyright (c) 2015 Erik Flowers (https://github.com/erikflowers/weather-icons)
+
+[Powerline Symbols]
+Copyright (c) 2013 Kim Silkebækken and other contributors (https://github.com/powerline/powerline)
+
+[Powerline Extra Symbols]
+Copyright (c) 2016 Ryan L McIntyre (https://github.com/ryanoasis/powerline-extra-symbols)
+
+[DevIcon]
+Copyright (c) 2015 konpa (https://github.com/devicons/devicon)
+
+[Octicons]
+Copyright (c) 2024 GitHub, Inc. (https://github.com/primer/octicons)
+
+[Codicons]
+Copyright (c) Microsoft Corporation. (https://github.com/microsoft/vscode-codicons)
+
+[IEC Power Symbols]
+Copyright (c) 2013 Joe Loughry (https://github.com/jloughry/Unicode)
+
+[Cica]
+Copyright (c) 2018, Takahiro Minami (https://tmnm.tech)
+
+[Saica]
+Copyright (c) 2024, kash / Hytus (https://hytus.net)

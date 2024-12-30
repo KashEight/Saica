@@ -12,15 +12,12 @@ with Reserved Font Name Saica
     - MIT Licenses
         - Saica Generate Script : https://github.com/KashEight/Saica
         - DevIcon : https://github.com/devicons/devicon
-        - Powerline Extra Symbols : https://github.com/ryanoasis/powerline-extra-symbols
-        - Font Awesome : https://github.com/FortAwesome/Font-Awesome
         - Font Awesome Extension : https://github.com/AndreLZGava/font-awesome-extension
         - Octicons : https://github.com/primer/octicons
         - IEC Power Symbols : https://unicodepowersymbol.com/
         - Powerline Symbols : https://github.com/powerline/powerline
         - Poweline Extra Symbols : https://github.com/ryanoasis/powerline-extra-symbols
         - Seti-UI + Custom : https://github.com/jesseweed/seti-ui
-        - Font Logos : https://github.com/Lukas-W/font-logos
     - Apache License 2.0 - https://www.apache.org/licenses/LICENSE-2.0.html
         - Noto Emoji : https://github.com/googlei18n/noto-emoji
         - Material Design Icons https://github.com/Templarian/MaterialDesign
@@ -28,6 +25,9 @@ with Reserved Font Name Saica
         - DejaVu Sans Mono : https://dejavu-fonts.github.io/
     - CC BY 4.0
         - Codicons : https://github.com/microsoft/vscode-codicons
+        - Font Awesome : https://github.com/FortAwesome/Font-Awesome
+    - Unlicensed
+        - Font Logos : https://github.com/Lukas-W/font-logos
 
 
 ## SIL Open Font License
