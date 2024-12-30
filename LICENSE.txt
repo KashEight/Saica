@@ -7,6 +7,7 @@ with Reserved Font Name Saica
     - SIL Open Font License, Version 1.1
         - Hack : https://sourcefoundry.org/hack/
         - Rounded Mgen+ : http://jikasei.me/font/rounded-mgenplus/
+        - Noto Emoji : https://github.com/googlefonts/noto-emoji
         - Weather : https://github.com/erikflowers/weather-icons
         - Cica : https://github.com/miiton/Cica
     - MIT Licenses
@@ -19,7 +20,6 @@ with Reserved Font Name Saica
         - Poweline Extra Symbols : https://github.com/ryanoasis/powerline-extra-symbols
         - Seti-UI + Custom : https://github.com/jesseweed/seti-ui
     - Apache License 2.0 - https://www.apache.org/licenses/LICENSE-2.0.html
-        - Noto Emoji : https://github.com/googlei18n/noto-emoji
         - Material Design Icons https://github.com/Templarian/MaterialDesign
     - Free license
         - DejaVu Sans Mono : https://dejavu-fonts.github.io/
