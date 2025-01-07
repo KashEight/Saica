@@ -1,6 +1,7 @@
 name: Build
 
-on: [push]
+on:
+  workflow_dispatch:
 
 jobs:
   build:
@@ -9,7 +10,7 @@ jobs:
     steps:
       # Check out the source repository to standard location
       - name: Check out the repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       # Build a container in the root of our repository and make it run
       - name: Execute build
@@ -17,7 +18,7 @@ jobs:
 
       # Upload built results as an artifact
       - name: Upload artifacts
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v4
         with:
-          name: Cica-nightly-${{ github.sha }}
+          name: Saica-nightly-${{ github.sha }}
           path: dist
