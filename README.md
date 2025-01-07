@@ -13,6 +13,7 @@
         - \+ [Font Logos](https://github.com/Lukas-W/font-logos)
         - \+ [Material Design Icons](https://github.com/Templarian/MaterialDesign)
         - \+ [Codicons](https://github.com/microsoft/vscode-codicons)
+        - \+ [Pomicons](https://github.com/gabrielelana/pomicons) (ライセンスが OFL になったため)
         - \- [DevIcons](https://github.com/vorillaz/devicons)
         - \- [Icons for Devs](https://github.com/mirmat/iconsfordevs)
 
@@ -22,7 +23,7 @@ o Saica
 |
 o Cica
 |\
-* * Nerd Fonts (without Pomicons※)
+* * Nerd Fonts
 |\
 * * Noto Emoji
 |\
@@ -39,7 +40,6 @@ o Cica
   * M+ OUTLINE FONTS
 ```
 
-- ※Nerd Fontsに含まれるPomiconsのグリフは商用利用が出来ないライセンスなのでジェネレータからは除外しています。
 - ※アイコン類はフォントをインストール後 [https:\/\/miiton.github.io\/Cica\/](https://miiton.github.io/Cica/) で確認出来ます。
 
 ## ビルド手順

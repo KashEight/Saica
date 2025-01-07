@@ -1,5 +1,4 @@
-Copyright (c) 2024, kash / Hytus (https://hytus.net),
-with Reserved Font Name Saica
+Copyright (c) 2025, kash / Hytus (https://hytus.net), with Reserved Font Name Saica
 
 - The Saica generate script is licensed under the MIT License.
 - And Saica Font Software is licensed under the SIL Open Font License v1.1.
@@ -9,6 +8,7 @@ with Reserved Font Name Saica
         - Rounded Mgen+ : http://jikasei.me/font/rounded-mgenplus/
         - Noto Emoji : https://github.com/googlefonts/noto-emoji
         - Weather : https://github.com/erikflowers/weather-icons
+        - Pomicons : https://github.com/gabrielelana/pomicons
         - Cica : https://github.com/miiton/Cica
     - MIT Licenses
         - Saica Generate Script : https://github.com/KashEight/Saica
@@ -120,7 +120,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 
 ## MIT License
 
-Copyright (c) 2024 kash / Hytus
+Copyright (c) 2025 kash / Hytus
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
