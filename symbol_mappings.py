@@ -1,0 +1,185 @@
+nerd_mappings = [
+    {
+        'Name': "Seti-UI + Custom",
+        'Filename': "original-source.otf",
+        'SymStart': 0xE4FA,
+        'SymEnd': 0xE5FF,
+        'SrcStart': 0xE5FA,
+    },
+    {
+        'Name': "Heavy Angle Brackets",
+        'Filename': "extraglyphs.sfd",
+        'SymStart': 0x276C,
+        'SymEnd': 0x2771,
+        'SrcStart': None,
+    },
+    {
+        'Name': "Box Drawing",
+        'Filename': "extraglyphs.sfd",
+        'SymStart': 0x2500,
+        'SymEnd': 0x259F,
+        'SrcStart': None,
+    },
+    {
+        'Name': "Progress Indicators",
+        'Filename': "extraglyphs.sfd",
+        'SymStart': 0xEE00,
+        'SymEnd': 0xEE0B,
+        'SrcStart': None,
+    },
+    {
+        'Name': "Devicons",
+        'Filename': "devicons/devicons.ttf",
+        'SymStart': 0xE600,
+        'SymEnd': 0xE7EF,
+        'SrcStart': 0xE700,
+    },
+    {
+        'Name': "Powerline Symbols",
+        'Filename': "powerline-symbols/PowerlineSymbols.otf",
+        'SymStart': 0xE0A0,
+        'SymEnd': 0xE0A2,
+        'SrcStart': None,
+    },
+    {
+        'Name': "Powerline Symbols",
+        'Filename': "powerline-symbols/PowerlineSymbols.otf",
+        'SymStart': 0xE0B0,
+        'SymEnd': 0xE0B3,
+        'SrcStart': None,
+    },
+    {
+        'Name': "Powerline Extra Symbols",
+        'Filename': "powerline-extra/PowerlineExtraSymbols.otf",
+        'SymStart': 0xE0A3,
+        'SymEnd': 0xE0A3,
+        'SrcStart': None,
+    },
+    {
+        'Name': "Powerline Extra Symbols",
+        'Filename': "powerline-extra/PowerlineExtraSymbols.otf",
+        'SymStart': 0xE0B4,
+        'SymEnd': 0xE0C8,
+        'SrcStart': None,
+    },
+    {
+        'Name': "Powerline Extra Symbols",
+        'Filename': "powerline-extra/PowerlineExtraSymbols.otf",
+        'SymStart': 0xE0CA,
+        'SymEnd': 0xE0CA,
+        'SrcStart': None,
+    },
+    {
+        'Name': "Powerline Extra Symbols",
+        'Filename': "powerline-extra/PowerlineExtraSymbols.otf",
+        'SymStart': 0xE0CC,
+        'SymEnd': 0xE0D7,
+        'SrcStart': None,
+    },
+    {
+        'Name': "Powerline Extra Symbols",
+        'Filename': "powerline-extra/PowerlineExtraSymbols.otf",
+        'SymStart': 0x2630,
+        'SymEnd': 0x2630,
+        'SrcStart': None,
+    },
+    {
+        'Name': "Pomicons",
+        'Filename': "pomicons/Pomicons.otf",
+        'SymStart': 0xE000,
+        'SymEnd': 0xE00A,
+        'SrcStart': None,
+    },
+    {
+        'Name': "Font Awesome",
+        'Filename': "font-awesome/FontAwesome.otf",
+        'SymStart': 0xED00,
+        'SymEnd': 0xF2FF,
+        'SrcStart': None,
+    },
+    {
+        'Name': "Font Awesome Extension",
+        'Filename': "font-awesome-extension.ttf",
+        'SymStart': 0xE000,
+        'SymEnd': 0xE0A9,
+        'SrcStart': 0xE200,
+    },  # Maximize
+    {
+        'Name': "Power Symbols",
+        'Filename': "Unicode_IEC_symbol_font.otf",
+        'SymStart': 0x23FB,
+        'SymEnd': 0x23FE,
+        'SrcStart': None,
+    },  # Power, Power On/Off, Power On, Sleep
+    {
+        'Name': "Power Symbols",
+        'Filename': "Unicode_IEC_symbol_font.otf",
+        'SymStart': 0x2B58,
+        'SymEnd': 0x2B58,
+        'SrcStart': None,
+    },  # Heavy Circle (aka Power Off)
+    {
+        'Name': "Material legacy",
+        'Filename': "materialdesign/materialdesignicons-webfont.ttf",
+        'SymStart': 0xF001,
+        'SymEnd': 0xF847,
+        'SrcStart': 0xF500,
+    },
+    {
+        'Name': "Material",
+        'Filename': "materialdesign/MaterialDesignIconsDesktop.ttf",
+        'SymStart': 0xF0001,
+        'SymEnd': 0xF1AF0,
+        'SrcStart': None,
+    },
+    {
+        'Name': "Weather Icons",
+        'Filename': "weather-icons/weathericons-regular-webfont.ttf",
+        'SymStart': 0xF000,
+        'SymEnd': 0xF0EB,
+        'SrcStart': 0xE300,
+    },
+    {
+        'Name': "Font Logos",
+        'Filename': "font-logos.ttf",
+        'SymStart': 0xF300,
+        'SymEnd': 0xF381,
+        'SrcStart': None,
+    },
+    {
+        'Name': "Octicons",
+        'Filename': "octicons/octicons.ttf",
+        'SymStart': 0xF000,
+        'SymEnd': 0xF105,
+        'SrcStart': 0xF400,
+    },  # Magnifying glass
+    {
+        'Name': "Octicons",
+        'Filename': "octicons/octicons.ttf",
+        'SymStart': 0x2665,
+        'SymEnd': 0x2665,
+        'SrcStart': None,
+    },  # Heart
+    {
+        'Name': "Octicons",
+        'Filename': "octicons/octicons.ttf",
+        'SymStart': 0X26A1,
+        'SymEnd': 0X26A1,
+        'SrcStart': None,
+    },  # Zap
+    {
+        'Name': "Octicons",
+        'Filename': "octicons/octicons.ttf",
+        'SymStart': 0xF27C,
+        'SymEnd': 0xF306,
+        'SrcStart': 0xF4A9,
+    },
+    {
+        'Name': "Codicons",
+        'Filename': "codicons/codicon.ttf",
+        'SymStart': 0xEA60,
+        'SymEnd': 0xEC1E,
+        'SrcStart': None,
+    }
+]
+# TODO: Add original symbols
